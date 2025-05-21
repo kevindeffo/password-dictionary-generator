@@ -21,7 +21,7 @@ Ce script Python crée un fichier `dictionnaire.txt` contenant une liste de mots
 
 1. Clone ce repository :
     ```bash
-    git clone https://github.com/ton-orga/password-dictionary-generator.git
+    git clone https://github.com/kevindeffo/password-dictionary-generator.git
     cd password-dictionary-generator
     ```
 
