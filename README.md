@@ -38,4 +38,4 @@ Ce script Python crée un fichier `dictionnaire.txt` contenant une liste de mots
 Lance le script et suis les instructions :
 
 ```bash
-python3 generate_dict.py
+python3 generate-password-dict.py
